@@ -1,5 +1,6 @@
 libadwaita
 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst
+## LGPL-3.0-or-later
 
 example
 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
