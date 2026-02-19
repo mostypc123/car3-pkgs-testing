@@ -1,13 +1,10 @@
-libadwaita
-- https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst
+libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst
 ## LGPL-3.0-or-later
 > GNOME GTK4 library
 
-nm
-- https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nm.tar.zst
+nm - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nm.tar.zst
 ## GPLv2
 > NetworkManager
 
-example
-- https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
+example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
 > example package
