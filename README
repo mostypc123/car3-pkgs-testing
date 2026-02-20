@@ -1,11 +1,31 @@
 libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst
-## LGPL-3.0-or-later
-> GNOME GTK4 library
+## LGPL-2.1-or-later
+> GTK4 library providing widgets and GObjects for modern mobile-friendly applications
 version 1.5.3
 
+curl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/curl.tar.zst
+## curl (MIT/X derivate)
+> Command line tool and library for transferring data with URLs
+version 8.18.0
+
+i3 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/i3.tar.zst
+## BSD-3-Clause
+> A tiling window manager for X11, completely written from scratch and keyboard-driven
+version 4.25.1
+
+make - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/make.tar.zst
+## GPL-3.0-or-later
+> GNU utility to direct compilation and manage project dependencies
+version 4.4.1
+
+man - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/man.tar.zst
+## GPL-2.0-or-later
+> the standard implementation of the Unix documentation system
+version 2.13.1
+
 nm - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nm.tar.zst
-## GPLv2
-> NetworkManager
+## GPL-2.0-or-later
+> A daemon for simplified and automated network configuration
 version 1.56.0
 
 example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
