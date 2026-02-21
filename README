@@ -2,10 +2,20 @@ example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.
 > example package
 version 0.1
 
+autoconf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/autoconf.tar.zst
+## GPL-3.0-or-later
+> GNU Autoconf
+version 2.72
+
 libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst
 ## LGPL-2.1-or-later
 > GTK4 library providing widgets and GObjects for modern mobile-friendly applications
 version 1.5.3
+
+cairo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cairo.tar.zst
+## LGPL-2.1-or-later
+> Cairo is a 2D graphics library with support for multiple output devices
+version 1.17.6
 
 curl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/curl.tar.zst
 ## curl (MIT/X derivate)
